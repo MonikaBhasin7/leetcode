@@ -37,6 +37,7 @@
 ### Dynamic Programming (DP)
 
 Dynamic Programming is a family of techniques whereby the algorithm uses data calculated in previous steps to calculate the current step or solution.
+In this to find the Solution of present State the previous State help is taken. It means with the help of previous State we can able to find the value of current State. Seems meaningful.
 
 #### Memoization
 
